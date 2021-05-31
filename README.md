@@ -1,3 +1,12 @@
+ARCHIVED
+========
+
+This project is no longer maintained. 
+
+Jenkins has moved quite a bit since this was written, and a declarative pipeline would be the preferred way of doing this now.
+
+---
+
 Docker Jenkins Build Pipeline Template
 ======================================
 
